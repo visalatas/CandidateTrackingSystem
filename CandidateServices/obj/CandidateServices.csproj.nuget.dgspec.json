@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateRepository\\CandidateRepository.csproj": {}
+    "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateServices\\CandidateServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateRepository\\CandidateRepository.csproj": {
+    "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateServices\\CandidateServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateRepository\\CandidateRepository.csproj",
-        "projectName": "CandidateRepository",
-        "projectPath": "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateRepository\\CandidateRepository.csproj",
+        "projectUniqueName": "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateServices\\CandidateServices.csproj",
+        "projectName": "CandidateServices",
+        "projectPath": "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateServices\\CandidateServices.csproj",
         "packagesPath": "C:\\Users\\visal ataş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateRepository\\obj\\",
+        "outputPath": "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\visal ataş\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,16 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.10, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
