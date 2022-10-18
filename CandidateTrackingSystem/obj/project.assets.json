@@ -669,10 +669,24 @@
           }
         }
       },
+      "CandidateCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.10"
+        },
+        "compile": {
+          "bin/placeholder/CandidateCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CandidateCore.dll": {}
+        }
+      },
       "CandidateRepository/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "CandidateCore": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10"
         },
@@ -681,6 +695,19 @@
         },
         "runtime": {
           "bin/placeholder/CandidateRepository.dll": {}
+        }
+      },
+      "CandidateServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CandidateRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CandidateServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CandidateServices.dll": {}
         }
       }
     }
@@ -1973,15 +2000,25 @@
         "version.txt"
       ]
     },
+    "CandidateCore/1.0.0": {
+      "type": "project",
+      "path": "../CandidateCore/CandidateCore.csproj",
+      "msbuildProject": "../CandidateCore/CandidateCore.csproj"
+    },
     "CandidateRepository/1.0.0": {
       "type": "project",
       "path": "../CandidateRepository/CandidateRepository.csproj",
       "msbuildProject": "../CandidateRepository/CandidateRepository.csproj"
+    },
+    "CandidateServices/1.0.0": {
+      "type": "project",
+      "path": "../CandidateServices/CandidateServices.csproj",
+      "msbuildProject": "../CandidateServices/CandidateServices.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CandidateRepository >= 1.0.0",
+      "CandidateServices >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -2013,8 +2050,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateRepository\\CandidateRepository.csproj": {
-              "projectPath": "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateRepository\\CandidateRepository.csproj"
+            "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateServices\\CandidateServices.csproj": {
+              "projectPath": "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateServices\\CandidateServices.csproj"
             }
           }
         }

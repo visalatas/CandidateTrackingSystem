@@ -597,6 +597,19 @@
             "rid": "win"
           }
         }
+      },
+      "CandidateCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.10"
+        },
+        "compile": {
+          "bin/placeholder/CandidateCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CandidateCore.dll": {}
+        }
       }
     }
   },
@@ -1762,10 +1775,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CandidateCore/1.0.0": {
+      "type": "project",
+      "path": "../CandidateCore/CandidateCore.csproj",
+      "msbuildProject": "../CandidateCore/CandidateCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CandidateCore >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10"
     ]
@@ -1796,7 +1815,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateCore\\CandidateCore.csproj": {
+              "projectPath": "C:\\Users\\visal ataş\\source\\repos\\CandidateTrackingSystemApi\\CandidateTrackingSystem\\CandidateCore\\CandidateCore.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
