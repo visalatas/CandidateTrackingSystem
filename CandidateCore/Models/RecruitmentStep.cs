@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CandidateCore.Models
 {
-    public class RecruitmentSteps : BaseEntity<int>
+    public class RecruitmentStep : BaseEntity<int>
     {
-        public string StepsName { get; set; }
-        public int StepsQueue { get; set; }    
+        public string StepName { get; set; }
+        public int StepQueue { get; set; }    
     }
 }

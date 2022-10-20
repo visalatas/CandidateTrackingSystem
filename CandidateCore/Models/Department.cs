@@ -9,7 +9,7 @@ namespace CandidateCore.Models
     public class Department : BaseEntity
     {
         public string DepartmentName { get; set; }
-        public virtual List<Position> Positions { get; set; }
+        public virtual ICollection<Position> Positions { get; set; }
 
     }
 }

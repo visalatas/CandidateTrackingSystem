@@ -1,0 +1,14 @@
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\bin\Debug\net6.0\CandidateCore.deps.json
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\bin\Debug\net6.0\CandidateCore.dll
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\bin\Debug\net6.0\CandidateCore.pdb
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.csproj.AssemblyReference.cache
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.AssemblyInfoInputs.cache
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.AssemblyInfo.cs
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.csproj.CoreCompileInputs.cache
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.dll
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\refint\CandidateCore.dll
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.pdb
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\ref\CandidateCore.dll
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\bin\Debug\net6.0\CandidateCore.runtimeconfig.json
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.genruntimeconfig.cache

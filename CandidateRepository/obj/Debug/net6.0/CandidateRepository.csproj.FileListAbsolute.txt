@@ -1,0 +1,17 @@
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\bin\Debug\net6.0\CandidateRepository.deps.json
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\bin\Debug\net6.0\CandidateRepository.dll
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\bin\Debug\net6.0\CandidateRepository.pdb
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\bin\Debug\net6.0\CandidateCore.dll
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\bin\Debug\net6.0\CandidateCore.pdb
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\CandidateRepository.csproj.AssemblyReference.cache
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\CandidateRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\CandidateRepository.AssemblyInfoInputs.cache
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\CandidateRepository.AssemblyInfo.cs
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\CandidateRepository.csproj.CoreCompileInputs.cache
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\CandidateRepository.csproj.CopyComplete
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\CandidateRepository.dll
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\refint\CandidateRepository.dll
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\CandidateRepository.pdb
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\ref\CandidateRepository.dll
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\bin\Debug\net6.0\CandidateRepository.runtimeconfig.json
+C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateRepository\obj\Debug\net6.0\CandidateRepository.genruntimeconfig.cache

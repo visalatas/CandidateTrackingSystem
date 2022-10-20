@@ -1,5 +1,6 @@
 using CandidateRepository;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,8 +12,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<CondidateDbContext>(options => options.UseSqlServer(
-        builder.Configuration.GetConnectionString("DefaultConnection")
-    ));
+builder.Configuration.GetConnectionString("DefaultConnection")));
+
+var connStr = builder.Configuration.GetConnectionString("SqlConnection");
+//add sql database
+builder.Services.AddDbContext<CondidateDbContext>(x =>
+{
+    x.UseSqlServer(connStr);
+});
+
 
 var app = builder.Build();
 
