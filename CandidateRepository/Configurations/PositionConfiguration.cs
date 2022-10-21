@@ -19,6 +19,10 @@ namespace CandidateRepository.Configurations
             builder.HasOne(x => x.Department)
                 .WithMany(x => x.Positions)
                 .HasForeignKey(x => x.DepartmentId);
+
+            builder.Property(x => x.PositionName).HasMaxLength(50);
+
+
         }
     }
 }

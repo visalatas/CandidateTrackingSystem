@@ -1,4 +1,5 @@
 ﻿using CandidateCore.Models;
+using CandidateRepository.Configurations;
 using Microsoft.EntityFrameworkCore;
 
 namespace CandidateRepository
@@ -19,6 +20,15 @@ namespace CandidateRepository
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            
+            modelBuilder.ApplyConfiguration(new DepartmentConfiguration());
+            modelBuilder.ApplyConfiguration(new PersonConfiguration());
+            modelBuilder.ApplyConfiguration(new PositionConfiguration());
+            modelBuilder.ApplyConfiguration(new RecruitmentStepConfiguration());
+
+
+
+
         }
     }
 

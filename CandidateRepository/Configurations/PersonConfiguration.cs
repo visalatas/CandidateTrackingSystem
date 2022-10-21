@@ -16,8 +16,18 @@ namespace CandidateRepository.Configurations
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Id).UseIdentityColumn();
             builder.HasOne(x => x.Position)
-                .WithMany(x => x.Persons)
+                   .WithMany(x => x.Persons)
                    .HasForeignKey(x => x.PositionId);
+
+            builder.HasOne(x => x.RecruitmentStep)
+                   .WithMany(x => x.Persons)
+                   .HasForeignKey(x => x.RecruitmentStepId);
+
+            builder.Property(x => x.Name).HasMaxLength(50);
+            builder.Property(x => x.SurName).HasMaxLength(50);
+            builder.Property(x => x.Mail).HasMaxLength(50);
+            builder.Property(x => x.PhoneNumber).HasMaxLength(50);
+
 
         }
     }

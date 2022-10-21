@@ -9,6 +9,7 @@ namespace CandidateCore.Models
     public class RecruitmentStep : BaseEntity<int>
     {
         public string StepName { get; set; }
-        public int StepQueue { get; set; }    
+        public int StepQueue { get; set; }
+        public virtual ICollection<Person> Persons { get; set; }
     }
 }
