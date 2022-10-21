@@ -64,5 +64,3 @@ C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSy
 C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateTrackingSystem\obj\Debug\net6.0\CandidateTrackingSystem.pdb
 C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateTrackingSystem\obj\Debug\net6.0\CandidateTrackingSystem.genruntimeconfig.cache
 C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateTrackingSystem\obj\Debug\net6.0\ref\CandidateTrackingSystem.dll
-C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateTrackingSystem\bin\Debug\net6.0\Humanizer.dll
-C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateTrackingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

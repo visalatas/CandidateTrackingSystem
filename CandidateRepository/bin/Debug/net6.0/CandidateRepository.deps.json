@@ -9,7 +9,6 @@
       "CandidateRepository/1.0.0": {
         "dependencies": {
           "CandidateCore": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.10",
           "Microsoft.EntityFrameworkCore.Design": "6.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.10"

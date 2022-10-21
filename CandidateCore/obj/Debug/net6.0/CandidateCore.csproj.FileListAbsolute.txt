@@ -10,5 +10,3 @@ C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSy
 C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\refint\CandidateCore.dll
 C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.pdb
 C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\ref\CandidateCore.dll
-C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\bin\Debug\net6.0\CandidateCore.runtimeconfig.json
-C:\Users\visal ataş\source\repos\CandidateTrackingSystemApi\CandidateTrackingSystem\CandidateCore\obj\Debug\net6.0\CandidateCore.genruntimeconfig.cache
